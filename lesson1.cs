@@ -1,8 +1,8 @@
 ﻿using System;
-using static dz1.NeededMethods;
+using static CsharpLvl1.NeededMethods;
 
 
-namespace dz1
+namespace CsharpLvl1
 {
     partial class Program
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
  
 
-namespace dz1
+namespace CsharpLvl1
 {
     public class NeededMethods
     {
