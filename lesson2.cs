@@ -27,6 +27,7 @@ namespace lesson2
             Console.Write("Введите третье число:");
             c = Convert.ToDouble(Console.ReadLine());
             Console.Write($"Минимальное число:{ Minimum(a, b, c)}");
+            Console.Write($"Минимальное число через Math.Min: { Math.Min(Math.Min(a,b),c)}");
             Console.ReadLine();
 
             //2.Написать метод подсчета количества цифр числа.
